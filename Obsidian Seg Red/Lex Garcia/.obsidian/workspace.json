@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "51c991fdbdf7a0fa",
+        "id": "c841b100eae3bbb7",
         "type": "tabs",
-        "dimension": 66.92015209125475,
+        "dimension": 75.96153846153847,
         "children": [
           {
-            "id": "a46ed0676dabd6aa",
+            "id": "dd36c77c8955ae0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills 1/Reto - 04 - Bases.md",
+                "file": "General skills 2/Reto - 10 - First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reto - 04 - Bases"
+              "title": "Reto - 10 - First Find"
             }
           }
         ]
       },
       {
-        "id": "a3cb6078cb903371",
+        "id": "05a95d941755ccff",
         "type": "tabs",
-        "dimension": 33.07984790874524,
+        "dimension": 24.038461538461537,
         "children": [
           {
-            "id": "ea6f7b36bf23ec6d",
+            "id": "3c673bebba4d5600",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 200
   },
   "right": {
     "id": "5de2b5a1e9489c5e",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Skills 1/Reto - 04 - Bases.md",
+                "file": "General skills 2/reto - 02 - strings it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Reto - 04 - Bases"
+              "title": "Enlaces entrantes de reto - 02 - strings it"
             }
           },
           {
@@ -191,8 +191,33 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a46ed0676dabd6aa",
+  "active": "dd36c77c8955ae0e",
   "lastOpenFiles": [
+    "Pasted image 20250903201629.png",
+    "plantilla.md",
+    "General skills 2/Reto - 10 - First Find.md",
+    "General skills 2/Reto - 09 - Big zip.md",
+    "Pasted image 20250903115344.png",
+    "Pasted image 20250903115342.png",
+    "General skills 2/Reto - 08 - repetitions.md",
+    "Pasted image 20250903113027.png",
+    "General skills 2/Reto - 07 - Magikarp Ground Mission.md",
+    "Pasted image 20250903111553.png",
+    "General skills 2/Reto - 05 - useless.md",
+    "General skills 2/Reto - 06 - Tab, Tab, Attack.md",
+    "Pasted image 20250903105636.png",
+    "General skills 2/reto - 02 - strings it.md",
+    "Pasted image 20250903103203.png",
+    "Pasted image 20250903103159.png",
+    "General skills 2/Reto - 04 - Static ain't always noise.md",
+    "Pasted image 20250902114532.png",
+    "General skills 2/Reto - 03 - Wave a flag.md",
+    "Pasted image 20250902113052.png",
+    "Pasted image 20250901195213.png",
+    "General skills 2/Reto - 01 -Based.md",
+    "General skills 2",
+    "General Skills 1/Reto - 04 - Bases.md",
+    "Bienvenido.md",
     "General Skills 1/Reto - 05 - First Grep.md",
     "General Skills 1/Reto - 06 - Obedient Cat.md",
     "General Skills 1/Reto - 07 - whats a net cat.md",
@@ -200,22 +225,9 @@
     "General Skills 1/Reto - 09 - Glitch Cat.md",
     "General Skills 1/Reto - 10 - Nice netcat.md",
     "General Skills 1/Reto - 01-Lets Warm Up.md",
-    "Pasted image 20250827110839.png",
-    "Pasted image 20250901183508.png",
-    "Pasted image 20250901183315.png",
-    "Pasted image 20250901183312.png",
-    "plantilla.md",
-    "Pasted image 20250901182346.png",
-    "Pasted image 20250901181828.png",
-    "Pasted image 20250901115701.png",
-    "Pasted image 20250901114345.png",
-    "Pasted image 20250901113707.png",
-    "Pasted image 20250901113130.png",
     "General Skills 1/Reto - 03 - Warmed Up.md",
     "General Skills 1/Reto - 02 - 2Warm.md",
-    "General Skills 1/Reto - 04 - Bases.md",
     "README.md",
-    "Bienvenido.md",
     "Sin título.md",
     "General Skills 1"
   ]
