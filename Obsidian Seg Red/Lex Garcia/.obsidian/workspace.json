@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c841b100eae3bbb7",
+        "id": "bce3447aafc1bfdf",
         "type": "tabs",
-        "dimension": 75.96153846153847,
+        "dimension": 73.1907894736842,
         "children": [
           {
-            "id": "f14d565733c51830",
+            "id": "dd77a6bc80700381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 05 - WebNet1.md",
+                "file": "Actividad 15 -  picoCTF - Forensic 4/Reto - 06 - Sleuthkit Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reto - 05 - WebNet1"
+              "title": "Reto - 06 - Sleuthkit Intro"
             }
           }
         ]
       },
       {
-        "id": "05a95d941755ccff",
+        "id": "e7b64054c8a92c3c",
         "type": "tabs",
-        "dimension": 24.038461538461537,
+        "dimension": 26.809210526315788,
         "children": [
           {
-            "id": "3c673bebba4d5600",
+            "id": "64690750ec04db74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "5de2b5a1e9489c5e",
@@ -191,13 +191,27 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f14d565733c51830",
+  "active": "dd77a6bc80700381",
   "lastOpenFiles": [
+    "Pasted image 20251016010653.png",
+    "plantilla.md",
+    "Actividad 15 -  picoCTF - Forensic 4/Reto - 06 - Sleuthkit Intro.md",
+    "Actividad 15 -  picoCTF - Forensic 4/Reto - 05 - Sleuthkit Apprentice.md",
+    "Pasted image 20251016003911.png",
+    "Pasted image 20251016003627.png",
+    "Actividad 15 -  picoCTF - Forensic 4/Reto - 04 - Operation Orchid.md",
+    "Actividad 15 -  picoCTF - Forensic 4/Reto - 01 - Disk, disk, sleuth.md",
+    "Pasted image 20251015234111.png",
+    "Actividad 15 -  picoCTF - Forensic 4/Reto - 03 - Operation Oni.md",
+    "Actividad 15 -  picoCTF - Forensic 4/Reto - 02 - Milkslap.md",
+    "Actividad 15 -  picoCTF - Forensic 4",
+    "Hidden in plainsight.md",
+    "Crack the Power.md",
+    "Crack the Gate 2.md",
+    "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 05 - WebNet1.md",
     "Pasted image 20251013133549.png",
     "Pasted image 20251013133412.png",
     "Pasted image 20251013133356.png",
-    "plantilla.md",
-    "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 05 - WebNet1.md",
     "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 04 - WebNet0.md",
     "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 03 - tunn3l v1s10n.md",
     "Pasted image 20251013125127.png",
@@ -208,12 +222,8 @@
     "Pasted image 20251013122102.png",
     "Examen 1/Reto 17 SSTI2.md",
     "Actividad 14 - picoCTF Forensic - Parte 3",
-    "Pasted image 20251008182724.png",
     "Examen 1/Reto 16 SQL Direct.md",
-    "Pasted image 20251008181459.png",
-    "Pasted image 20251008181457.png",
     "Examen 1/Reto 15 Java Code Analysis.md",
-    "Pasted image 20251008174424.png",
     "Examen 1/Reto 14 findme.md",
     "Examen 1/Reto 13 SSTI1.md",
     "Examen 1/Reto 12 Cookie Monster Secret Recipe.md",
@@ -221,23 +231,13 @@
     "Examen 1/Reto 10 Specialer.md",
     "Examen 1/Reto 09 SansAlpha.md",
     "Examen 1/reto 08 Rust fixme 3.md",
-    "Examen 1/Reto 07 Rust fixme 2.md",
-    "Examen 1/Reto 06 Rust fixme 1.md",
-    "Examen 1/Reto 05 Python Wrangling.md",
-    "Examen 1/Reto 04 flag_shop.md",
-    "Examen 1/Reto 03 dont-you-love-banners.md",
-    "Examen 1/Reto 02 HashingJobApp.md",
-    "Examen 1/Reto 01 FANTASY CTF.md",
-    "Actividad 13 - PicoCTFForensic Parte 2/Reto - 05 - WhitePages.md",
     "Examen 1",
-    "Actividad 13 - PicoCTFForensic Parte 2/Reto - 04 - shark on wire 2.md",
     "Actividad 13 - PicoCTFForensic Parte 2",
     "Actividad 12 - picoCTF - Forensic 1",
     "Tarea 2 - Web",
     "Actividad 11 - picoCTF Web - Parte 4",
     "Actividad 10 - picoCTF Web 3",
     "Actividad 09 - picoCTF Web 2",
-    "Actividad 08",
-    "Tarea 1 - General Skills"
+    "Actividad 08"
   ]
 }
