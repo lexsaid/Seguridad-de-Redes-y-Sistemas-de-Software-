@@ -9,35 +9,20 @@
         "dimension": 73.1907894736842,
         "children": [
           {
-            "id": "dd77a6bc80700381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 15 -  picoCTF - Forensic 4/Reto - 06 - Sleuthkit Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reto - 06 - Sleuthkit Intro"
-            }
-          },
-          {
             "id": "3b480eb15adeb51b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 08 - waves over lambda.md",
+                "file": "Actividad 17 - Retos Crypto 2/Reto - 01 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reto - 08 - waves over lambda"
+              "title": "Reto - 01 - rsa-pop-quiz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e7b64054c8a92c3c",
@@ -209,7 +194,9 @@
   "active": "3b480eb15adeb51b",
   "lastOpenFiles": [
     "plantilla.md",
+    "Actividad 17 - Retos Crypto 2/Reto - 01 - rsa-pop-quiz.md",
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 08 - waves over lambda.md",
+    "Actividad 17 - Retos Crypto 2",
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 07 - Tapping.md",
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 06 - la cifra de.md",
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 05 - Easy1.md",
@@ -245,14 +232,12 @@
     "Pasted image 20251013125127.png",
     "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 02 - Matryoshka doll.md",
     "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 01 - MacroHard WeakEdge.md",
-    "Examen 1/Reto 17 SSTI2.md",
     "Actividad 14 - picoCTF Forensic - Parte 3",
     "Examen 1",
     "Actividad 13 - PicoCTFForensic Parte 2",
     "Actividad 12 - picoCTF - Forensic 1",
     "Tarea 2 - Web",
     "Actividad 11 - picoCTF Web - Parte 4",
-    "Actividad 10 - picoCTF Web 3",
-    "Actividad 09 - picoCTF Web 2"
+    "Actividad 10 - picoCTF Web 3"
   ]
 }
