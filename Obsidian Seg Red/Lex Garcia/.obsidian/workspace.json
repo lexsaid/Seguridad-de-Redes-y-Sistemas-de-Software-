@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 17 - Retos Crypto 2/Reto - 01 - rsa-pop-quiz.md",
+                "file": "Actividad 18 - Retos Crypto 3/Reto - 04 - miniRSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reto - 01 - rsa-pop-quiz"
+              "title": "Reto - 04 - miniRSA"
             }
           }
         ]
@@ -193,8 +193,15 @@
   },
   "active": "3b480eb15adeb51b",
   "lastOpenFiles": [
+    "Pasted image 20251028123522.png",
     "plantilla.md",
+    "Actividad 18 - Retos Crypto 3/Reto - 04 - miniRSA.md",
+    "Actividad 18 - Retos Crypto 3/Reto - 03 - b00tl3gRSA3.md",
+    "Pasted image 20251027174617.png",
+    "Actividad 18 - Retos Crypto 3/Reto - 02 - b00tl3gRSA2.md",
+    "Actividad 18 - Retos Crypto 3/Reto - 01 - Mind your Ps and Qs.md",
     "Actividad 17 - Retos Crypto 2/Reto - 01 - rsa-pop-quiz.md",
+    "Actividad 18 - Retos Crypto 3",
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 08 - waves over lambda.md",
     "Actividad 17 - Retos Crypto 2",
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 07 - Tapping.md",
@@ -223,21 +230,14 @@
     "Hidden in plainsight.md",
     "Crack the Power.md",
     "Crack the Gate 2.md",
-    "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 05 - WebNet1.md",
     "Pasted image 20251013133549.png",
     "Pasted image 20251013133412.png",
     "Pasted image 20251013133356.png",
-    "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 04 - WebNet0.md",
-    "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 03 - tunn3l v1s10n.md",
-    "Pasted image 20251013125127.png",
-    "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 02 - Matryoshka doll.md",
-    "Actividad 14 - picoCTF Forensic - Parte 3/Reto - 01 - MacroHard WeakEdge.md",
     "Actividad 14 - picoCTF Forensic - Parte 3",
     "Examen 1",
     "Actividad 13 - PicoCTFForensic Parte 2",
     "Actividad 12 - picoCTF - Forensic 1",
     "Tarea 2 - Web",
-    "Actividad 11 - picoCTF Web - Parte 4",
-    "Actividad 10 - picoCTF Web 3"
+    "Actividad 11 - picoCTF Web - Parte 4"
   ]
 }
