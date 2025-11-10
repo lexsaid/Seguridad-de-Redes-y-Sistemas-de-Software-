@@ -6,6 +6,28 @@
       {
         "id": "e7b64054c8a92c3c",
         "type": "tabs",
+        "dimension": 71.2624584717608,
+        "children": [
+          {
+            "id": "7fb6b01e9c0c0d9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 20 - Reversing Parte 1/Reto - 04 - vault-door-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reto - 04 - vault-door-5"
+            }
+          }
+        ]
+      },
+      {
+        "id": "031a5e8c5da6e19c",
+        "type": "tabs",
+        "dimension": 28.737541528239202,
         "children": [
           {
             "id": "64690750ec04db74",
@@ -169,10 +191,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "64690750ec04db74",
+  "active": "7fb6b01e9c0c0d9e",
   "lastOpenFiles": [
-    "Tarea 4 - Crypto/Reto - 09 - Vigenere.md",
     "plantilla.md",
+    "Actividad 20 - Reversing Parte 1/Reto - 04 - vault-door-5.md",
+    "Actividad 20 - Reversing Parte 1/Reto - 03 - vault-door-3.md",
+    "Actividad 20 - Reversing Parte 1/Reto - 02 - vault-door-1.md",
+    "Actividad 20 - Reversing Parte 1/Reto - 01 - vault-door-training.md",
+    "Actividad 20 - Reversing Parte 1",
+    "Tarea 4 - Crypto/Reto - 09 - Vigenere.md",
     "Tarea 4 - Crypto/Reto - 08 - substitution2.md",
     "Tarea 4 - Crypto/Reto - 07 - substitution1.md",
     "Tarea 4 - Crypto/Reto - 06 - substitution0.md",
@@ -203,10 +230,6 @@
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 08 - waves over lambda.md",
     "Actividad 17 - Retos Crypto 2",
     "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 07 - Tapping.md",
-    "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 06 - la cifra de.md",
-    "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 05 - Easy1.md",
-    "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 04 - caesar.md",
-    "Actividad 16 - picoCTF Crypto - Parte 1/Reto - 03 - The Numbers.md",
     "Pasted image 20251020172313.png",
     "Pasted image 20251020154101.png",
     "Actividad 16 - picoCTF Crypto - Parte 1",
@@ -215,7 +238,6 @@
     "Actividad 15 -  picoCTF - Forensic 4",
     "Actividad 14 - picoCTF Forensic - Parte 3",
     "Examen 1",
-    "Actividad 13 - PicoCTFForensic Parte 2",
-    "Actividad 12 - picoCTF - Forensic 1"
+    "Actividad 13 - PicoCTFForensic Parte 2"
   ]
 }
